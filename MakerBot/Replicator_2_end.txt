@@ -1,0 +1,9 @@
+; -- start of END GCODE –
+G92 Z0
+G1 Z10 F400
+M18
+M104 S0 T0
+M73 P100 (end  build progress)
+G162 X Y F3000
+M18
+; -- end of END GCODE –

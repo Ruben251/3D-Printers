@@ -1,0 +1,2 @@
+G28 ;Home
+G1 Z15.0 F2000 ;Move the platform
